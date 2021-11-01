@@ -5,3 +5,7 @@ body {
 html {
     scroll-behavior: smooth;
 }
+
+img:hover {
+    transform: scale(0.9);
+}
